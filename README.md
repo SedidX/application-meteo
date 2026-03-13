@@ -31,7 +31,7 @@ Ce projet est une adaptation du projet open-source [weather-app](https://github.
 
 ```bash
 git clone <url-du-depot>
-cd appli-meteo
+cd application-meteo
 npm install
 npm run dev
 ```
